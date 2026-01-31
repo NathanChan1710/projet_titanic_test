@@ -15,7 +15,7 @@ Le projet à pour principe de nous faire appliquer les bonnes pratiques d’ing�
 
 ⇒Deadline du projet : Dimanche 8 Février 2026  
 
-⇒Restitution : URL de votre projet github à partager avec dinamedy@hotmail.com + un rapport détaillé (pdf ou doc) à déposer dans un drive dédié à votre groupe qui vous sera partagé.
+⇒Restitution : URL de votre projet github à partager avec un rapport détaillé (pdf ou doc) à déposer dans un drive dédié à votre groupe qui vous sera partagé.
 
 ## Les instructions d’installation et d’utilisation.
 Il faut faire Git Pull dans votre terminal avec le lien du repository, ensuite faire **pip install -r requirements.txt** pour charger les packages nécessaire à l'utilisation du projet

@@ -1,7 +1,7 @@
 import pandas as pd
 from sklearn.ensemble import RandomForestClassifier
 
-
+    
 def load_dataset(train_path: str, test_path: str):
     train_df = pd.read_csv(train_path)
     test_df = pd.read_csv(test_path)
