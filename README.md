@@ -4,14 +4,25 @@
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
 
-## Objetctif du projet
+## Objectif du projet
+Le projet à pour principe de nous faire appliquer les bonnes pratiques d’ingénierie logicielle vues pendant ce cours à un projet Data existant fourni sous forme de notebook python.
 
+⇒Vous devez travailler en équipe (min 2, max 4) et utiliser l’outil collaboratif GIT ainsi qu’un répertoire projet sur
+github
+⇒Pour la partie CI/CD, il est recommandé d’utiliser Github Actions comme votre projet sera déjà sur Github
+⇒Vous êtes libres d’utiliser l’IDE python de votre choix
+⇒Deadline du projet : Dimanche 8 Février 2026
+⇒Restitution : URL de votre projet github à partager avec dinamedy@hotmail.com + un rapport détaillé (pdf ou doc)
+à déposer dans un drive dédié à votre groupe qui vous sera partagé.
 
 ## Les instructions d’installation et d’utilisation.
-
+Il faut faire Git Pull dans votre terminal avec le lien du repository, ensuite faire **pip install -r requirements.txt** pour charger les packages nécessaire à l'utilisation du projet
 
 ## Les contributions des membres de l’équipe.
-
+- Nathan =
+- Camille = 
+- Manohy = 
+- Assisa = 
 
 first tianic project
 
